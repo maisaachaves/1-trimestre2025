@@ -65,9 +65,9 @@ body {
     }
   }
   @media screen and (min-width: 768px) {
-    /* Cursos na alura*/
+    /* Código omitido */
   
-    .botao:first-child {
+    .botao:last-child {
       border-radius: 0 40px 0 0;
     }
   }
